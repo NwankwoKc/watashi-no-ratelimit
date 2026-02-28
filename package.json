@@ -1,0 +1,29 @@
+{
+  "name": "watashi-no-ratelimit",
+  "version": "1.0.0",
+  "description": "my very own rate-limiter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NwankwoKc/watashi-no-ratelimit.git"
+  },
+  "author": "kc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NwankwoKc/watashi-no-ratelimit/issues"
+  },
+  "homepage": "https://github.com/NwankwoKc/watashi-no-ratelimit#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^25.3.2",
+    "nodemon": "^3.1.14",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
